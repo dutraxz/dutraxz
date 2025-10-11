@@ -10,25 +10,25 @@
 <hr/>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" title="Java"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo" title="PHP"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" title="MySQL"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo" title="SQLite" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" title="JavaScript" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" title="Git"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" title="GitHub"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo" title="IntelliJ" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" title="VsCode"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" title="Postman" />
 </div>
 
 ###
