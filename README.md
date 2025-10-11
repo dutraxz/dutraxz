@@ -1,15 +1,43 @@
-- ## Hi there 👋
-- 
-- **dutraxz/dutraxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 
-- Here are some ideas to get you started:
-- 
-- - 🔭 I’m currently working on ...
-- - 🌱 I’m currently learning ...
-- - 👯 I’m looking to collaborate on ...
-- - 🤔 I’m looking for help with ...
-- - 💬 Ask me about ...
-- - 📫 How to reach me: ...
-- - 😄 Pronouns: ...
-- - ⚡ Fun fact: ...
+ 👨🏻‍💻 Victor Dutra
+---
+**`Desenvolvedor Back-End`**
 
+
+🎓 Cursando Técnico em Desenvolvimento de Sistemas pelo [Senac Sorocaba](https://www.sp.senac.br/senac-sorocaba)
+
+🌐 Conheça meu [Linkedin](https://www.linkedin.com/in/victor-dutra-/)
+
+## Tecnologias
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dutraxz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dutraxz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
+</div>
+
+###
