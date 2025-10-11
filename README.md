@@ -16,11 +16,11 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="9" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="9" />
