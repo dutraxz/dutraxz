@@ -1,18 +1,17 @@
- 👨🏻‍💻 Victor Dutra
----
+ 👨🏻‍💻
 **`Desenvolvedor Back-End`**
 
 Olá! Eu me chamo Victor 🌎
 
-Tenho um forte interesse por desenvolvimento back-end e venho aprofundando meus estudos em Java, arquitetura de aplicações entre outras tecnologias. Gosto de entender a lógica por trás dos sistemas e encontrar maneiras mais sofisticadas e eficientes de fazer as coisas funcionarem.
-Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, autoajuda e inovação —
+Tenho um forte interesse por desenvolvimento ***back-end*** e venho aprofundando meus estudos em ***Java***, arquitetura de aplicações entre outras tecnologias. Gosto de entender a lógica por trás dos sistemas e encontrar maneiras mais sofisticadas e eficientes de fazer as coisas funcionarem.
+Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, autoajuda e inovação.
 
 
-🎓 Cursando Técnico em Desenvolvimento de Sistemas pelo [Senac Sorocaba](https://www.sp.senac.br/senac-sorocaba)
+**🎓 Cursando Técnico em Desenvolvimento de Sistemas pelo [Senac Sorocaba](https://www.sp.senac.br/senac-sorocaba)**
 
-🌐 Conheça meu [Linkedin](https://www.linkedin.com/in/victor-dutra-/)
+**🌐 Conheça meu [Linkedin](https://www.linkedin.com/in/victor-dutra-/)**
 
-<hr/>
+---
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" title="Java"  />
@@ -38,7 +37,7 @@ Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, aut
 
 ###
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dutraxz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dutraxz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="140" alt="languages graph"  />
 </div>
 
 ###
