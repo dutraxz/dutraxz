@@ -16,7 +16,7 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo" title="SQLite" />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="9" />
