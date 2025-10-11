@@ -7,9 +7,11 @@ Tenho um forte interesse por desenvolvimento ***back-end*** e venho aprofundando
 Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, autoajuda e inovação.
 
 
-**🎓 Cursando Técnico em Desenvolvimento de Sistemas pelo [Senac Sorocaba](https://www.sp.senac.br/senac-sorocaba)**
+**🎓 Cursando Técnico em Desenvolvimento de Sistemas pelo [Senac Sorocaba.](https://www.sp.senac.br/senac-sorocaba)**
 
-**🌐 Conheça meu [Linkedin](https://www.linkedin.com/in/victor-dutra-/)**
+**📄 Veja meu Currículo [Aqui!](https://victoreddutra.my.canva.site/curriculo-victordutra)**
+
+**🌐 Conheça meu [Linkedin.](https://www.linkedin.com/in/victor-dutra-/)**
 
 ---
 
