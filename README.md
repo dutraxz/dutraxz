@@ -7,9 +7,7 @@
 
 🌐 Conheça meu [Linkedin](https://www.linkedin.com/in/victor-dutra-/)
 
-## Tecnologias
-
-###
+<hr/>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
