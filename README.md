@@ -3,8 +3,9 @@
 **`Desenvolvedor Back-End`**
 
 Olá! Eu me chamo Victor 🌎
-Tenho um forte interesse por desenvolvimento back-end e venho aprofundando meus estudos em Java, arquitetura de aplicações entre outras tecnologias. Gosto de entender a lógica por trás dos sistemas e encontrar maneiras mais simples e eficientes de fazer as coisas funcionarem.
-Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, autoajuda e inovação — e de escutar músicas e ver filmes
+
+Tenho um forte interesse por desenvolvimento back-end e venho aprofundando meus estudos em Java, arquitetura de aplicações entre outras tecnologias. Gosto de entender a lógica por trás dos sistemas e encontrar maneiras mais sofisticadas e eficientes de fazer as coisas funcionarem.
+Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, autoajuda e inovação —
 
 
 🎓 Cursando Técnico em Desenvolvimento de Sistemas pelo [Senac Sorocaba](https://www.sp.senac.br/senac-sorocaba)
