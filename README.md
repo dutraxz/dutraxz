@@ -9,7 +9,7 @@ Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, aut
 
 **🎓 Cursando Técnico em Desenvolvimento de Sistemas pelo [Senac Sorocaba.](https://www.sp.senac.br/senac-sorocaba)**
 
-**📄 Veja meu Currículo [Aqui!](https://victoreddutra.my.canva.site/curriculo-victordutra)**
+**📄 Veja meu Currículo [Aqui!](https://www.canva.com/design/DAGzKAG9JCw/UD8EFVqz0YVpKXixanjz-w/view)**
 
 **🌐 Conheça meu [Linkedin.](https://www.linkedin.com/in/victor-dutra-/)**
 
