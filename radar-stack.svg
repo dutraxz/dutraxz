@@ -1,0 +1,293 @@
+<svg width="480" height="490" viewBox="0 0 480 490" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    .title-txt  { font: bold 12px 'Courier New', Courier, monospace; fill: #00ff88; letter-spacing: 3px; }
+    .sub-txt    { font: 9px 'Courier New', Courier, monospace; fill: #1a5a2a; letter-spacing: 2px; }
+    .ring-lbl   { font: 7px 'Courier New', Courier, monospace; fill: #0d3018; }
+    .compass    { font: bold 8px 'Courier New', Courier, monospace; fill: #143d1c; }
+    .tech-name  { font: bold 9.5px 'Courier New', Courier, monospace; letter-spacing: 1.5px; }
+    .tech-pct   { font: 8px 'Courier New', Courier, monospace; letter-spacing: 1px; }
+    .footer-txt { font: 7.5px 'Courier New', Courier, monospace; fill: #0d3018; letter-spacing: 1.5px; }
+    .blink { animation: blink 1.2s step-end infinite; }
+    @keyframes blink { 0%,100%{fill-opacity:1} 50%{fill-opacity:0} }
+    .dot-pulse { animation: dpulse 2s ease-in-out infinite; }
+    @keyframes dpulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+  </style>
+
+  <!-- Background radial glow -->
+  <radialGradient id="bgGlow" cx="50%" cy="50.5%" r="50%">
+    <stop offset="0%"   stop-color="#00ff88" stop-opacity="0.05"/>
+    <stop offset="100%" stop-color="#00ff88" stop-opacity="0"/>
+  </radialGradient>
+
+  <!-- Vignette -->
+  <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+    <stop offset="40%" stop-color="#060910" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#020508" stop-opacity="0.7"/>
+  </radialGradient>
+
+  <!-- Clip to radar circle -->
+  <clipPath id="radarClip">
+    <circle cx="240" cy="248" r="158"/>
+  </clipPath>
+
+  <!-- Sweep sector gradient (rotates with group - using fill-opacity trick) -->
+  <filter id="sweepBlur">
+    <feGaussianBlur stdDeviation="2" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <!-- Individual tech glow filters -->
+  <filter id="glowJava" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glowSpring" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glowMaven" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glowHiber" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glowJpa" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glowGreen" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="titleGlow" x="-20%" y="-50%" width="140%" height="200%">
+    <feGaussianBlur stdDeviation="2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<!-- ─── BACKGROUND ──────────────────────────────────────── -->
+<rect width="480" height="490" fill="#060910"/>
+<rect width="480" height="490" fill="url(#vignette)"/>
+
+<!-- Corner brackets -->
+<g stroke="#00ff88" stroke-width="1.5" fill="none" opacity="0.5">
+  <polyline points="2,18 2,2 18,2"/>
+  <polyline points="462,2 478,2 478,18"/>
+  <polyline points="478,472 478,488 462,488"/>
+  <polyline points="18,488 2,488 2,472"/>
+</g>
+
+<!-- ─── TITLE ────────────────────────────────────────────── -->
+<text x="240" y="27" class="title-txt" text-anchor="middle" filter="url(#titleGlow)">// SYSTEM SCAN</text>
+<text x="240" y="43" class="sub-txt"   text-anchor="middle">TECH STACK ANALYSIS · VICTOR DUTRA</text>
+<line x1="52" y1="52" x2="428" y2="52" stroke="#0a2a15" stroke-width="0.8"/>
+<line x1="52" y1="54" x2="428" y2="54" stroke="#071a0d" stroke-width="0.4"/>
+
+<!-- ─── RADAR BACKGROUND GLOW ────────────────────────────── -->
+<circle cx="240" cy="248" r="158" fill="url(#bgGlow)"/>
+
+<!-- ─── GRID RINGS (4 rings = 25/50/75/100%) ─────────────── -->
+<circle cx="240" cy="248" r="158" fill="none" stroke="#0b2a16" stroke-width="1"/>
+<circle cx="240" cy="248" r="118" fill="none" stroke="#0b2a16" stroke-width="0.8"/>
+<circle cx="240" cy="248" r="79"  fill="none" stroke="#0b2a16" stroke-width="0.8"/>
+<circle cx="240" cy="248" r="40"  fill="none" stroke="#0b2a16" stroke-width="0.8"/>
+<!-- Outer accent ring -->
+<circle cx="240" cy="248" r="162" fill="none" stroke="#00ff88" stroke-width="0.6" opacity="0.2"/>
+<circle cx="240" cy="248" r="161" fill="none" stroke="#00ff88" stroke-width="0.3" opacity="0.15"/>
+
+<!-- ─── COMPASS LINES (12 directions) ────────────────────── -->
+<!-- 0°/180° horizontal -->
+<line x1="82"   y1="248"   x2="398"   y2="248"   stroke="#0b2a16" stroke-width="0.6"/>
+<!-- 90°/270° vertical -->
+<line x1="240"  y1="90"    x2="240"   y2="406"   stroke="#0b2a16" stroke-width="0.6"/>
+<!-- 45°/225° -->
+<line x1="128"  y1="136"   x2="352"   y2="360"   stroke="#071a0d" stroke-width="0.5"/>
+<!-- 135°/315° -->
+<line x1="352"  y1="136"   x2="128"   y2="360"   stroke="#071a0d" stroke-width="0.5"/>
+<!-- 30°/210° -->
+<line x1="102"  y1="169"   x2="378"   y2="327"   stroke="#071a0d" stroke-width="0.4"/>
+<!-- 150°/330° -->
+<line x1="378"  y1="169"   x2="102"   y2="327"   stroke="#071a0d" stroke-width="0.4"/>
+<!-- 60°/240° -->
+<line x1="129"  y1="112"   x2="351"   y2="384"   stroke="#071a0d" stroke-width="0.4"/>
+<!-- 120°/300° -->
+<line x1="351"  y1="112"   x2="129"   y2="384"   stroke="#071a0d" stroke-width="0.4"/>
+
+<!-- ─── RING LABELS ───────────────────────────────────────── -->
+<text x="244"  y="246" class="ring-lbl">25</text>
+<text x="283"  y="246" class="ring-lbl">50</text>
+<text x="322"  y="246" class="ring-lbl">75</text>
+
+<!-- ─── COMPASS DIRECTION LETTERS ────────────────────────── -->
+<text x="240"  y="84"  class="compass" text-anchor="middle">N</text>
+<text x="404"  y="251" class="compass">E</text>
+<text x="240"  y="420" class="compass" text-anchor="middle">S</text>
+<text x="71"   y="251" class="compass" text-anchor="end">W</text>
+
+<!-- ─── SWEEP GROUP (SMIL rotation around center) ─────────── -->
+<g>
+  <!-- Sector: from center, leading edge at 0° (right), 55° trail counterclockwise -->
+  <!-- Path: M center L edge-right A arc-to-trail-endpoint Z -->
+  <path d="M 240,248 L 398,248 A 158,158 0 0,0 330.7,118.6 Z"
+        fill="#00ff88" fill-opacity="0.06" clip-path="url(#radarClip)"/>
+  <!-- Second inner sector (brighter near center) -->
+  <path d="M 240,248 L 318,248 A 79,79 0 0,0 285.35,183.3 Z"
+        fill="#00ff88" fill-opacity="0.05" clip-path="url(#radarClip)"/>
+  <!-- Leading edge line (bright) -->
+  <line x1="240" y1="248" x2="398" y2="248"
+        stroke="#00ff88" stroke-width="1.5" opacity="0.85" filter="url(#glowGreen)"/>
+  <!-- Center dot -->
+  <circle cx="240" cy="248" r="3" fill="#00ff88" opacity="0.9" filter="url(#glowGreen)"/>
+  <animateTransform attributeName="transform" type="rotate"
+    from="0 240 248" to="360 240 248" dur="5s" repeatCount="indefinite"/>
+</g>
+
+<!-- ─── CROSSHAIR CENTER ──────────────────────────────────── -->
+<circle cx="240" cy="248" r="5"  fill="none" stroke="#00ff88" stroke-width="0.8" opacity="0.4"/>
+<circle cx="240" cy="248" r="1.5" fill="#00ff88" opacity="0.6"/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     TECH BLIPS
+     Positions (angle in SVG screen coords, proficiency %):
+     Java:      300° CW = upper-right, 92% → r=145 → (312, 123)
+     Spring:    15°  CW = right-down,  80% → r=126 → (362, 281)
+     Maven:     90°  CW = bottom,      75% → r=118 → (240, 366)
+     Hibernate: 155° CW = lower-left,  72% → r=114 → (137, 296)
+     JPA:       230° CW = upper-left,  70% → r=111 → (169, 163)
+     ═══════════════════════════════════════════════════════════ -->
+
+<!-- ── JAVA ─────────────────────────────────────── (312, 123) -->
+<!-- Outer pulse ring -->
+<circle cx="312" cy="123" r="5" fill="none" stroke="#f89820" stroke-width="1.5" opacity="0.9">
+  <animate attributeName="r"              values="5;24"   dur="2.8s" begin="0s"   repeatCount="indefinite"/>
+  <animate attributeName="stroke-opacity" values="0.9;0"  dur="2.8s" begin="0s"   repeatCount="indefinite"/>
+</circle>
+<!-- Secondary ring (offset) -->
+<circle cx="312" cy="123" r="5" fill="none" stroke="#f89820" stroke-width="0.8" opacity="0.5">
+  <animate attributeName="r"              values="5;18"   dur="2.8s" begin="0.4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke-opacity" values="0.5;0"  dur="2.8s" begin="0.4s" repeatCount="indefinite"/>
+</circle>
+<!-- Core blip -->
+<circle cx="312" cy="123" r="4" fill="#f89820" filter="url(#glowJava)">
+  <animate attributeName="r" values="4;5.5;4" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="312" cy="123" r="2" fill="#ffe0a0"/>
+<!-- Connector line -->
+<line x1="316" y1="120" x2="328" y2="113" stroke="#f89820" stroke-width="0.8" opacity="0.5"/>
+<!-- Label -->
+<text x="331" y="110" class="tech-name" fill="#f89820">☕ JAVA</text>
+<text x="331" y="122" class="tech-pct"  fill="#f89820" opacity="0.65">▸ 92% PROFICIENCY</text>
+
+<!-- ── SPRING ───────────────────────────────────── (362, 281) -->
+<circle cx="362" cy="281" r="5" fill="none" stroke="#6db33f" stroke-width="1.5" opacity="0.9">
+  <animate attributeName="r"              values="5;24"   dur="2.8s" begin="0.5s" repeatCount="indefinite"/>
+  <animate attributeName="stroke-opacity" values="0.9;0"  dur="2.8s" begin="0.5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="362" cy="281" r="5" fill="none" stroke="#6db33f" stroke-width="0.8" opacity="0.5">
+  <animate attributeName="r"              values="5;18"   dur="2.8s" begin="0.9s" repeatCount="indefinite"/>
+  <animate attributeName="stroke-opacity" values="0.5;0"  dur="2.8s" begin="0.9s" repeatCount="indefinite"/>
+</circle>
+<circle cx="362" cy="281" r="4" fill="#6db33f" filter="url(#glowSpring)">
+  <animate attributeName="r" values="4;5.5;4" dur="2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="362" cy="281" r="2" fill="#ccffaa"/>
+<line x1="366" y1="278" x2="378" y2="271" stroke="#6db33f" stroke-width="0.8" opacity="0.5"/>
+<text x="381" y="268" class="tech-name" fill="#6db33f">🌿 SPRING</text>
+<text x="381" y="280" class="tech-pct"  fill="#6db33f" opacity="0.65">▸ 80% PROFICIENCY</text>
+
+<!-- ── MAVEN ────────────────────────────────────── (240, 366) -->
+<circle cx="240" cy="366" r="5" fill="none" stroke="#c71a36" stroke-width="1.5" opacity="0.9">
+  <animate attributeName="r"              values="5;24"   dur="2.8s" begin="1.0s" repeatCount="indefinite"/>
+  <animate attributeName="stroke-opacity" values="0.9;0"  dur="2.8s" begin="1.0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="240" cy="366" r="5" fill="none" stroke="#c71a36" stroke-width="0.8" opacity="0.5">
+  <animate attributeName="r"              values="5;18"   dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke-opacity" values="0.5;0"  dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="240" cy="366" r="4" fill="#c71a36" filter="url(#glowMaven)">
+  <animate attributeName="r" values="4;5.5;4" dur="2.2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="240" cy="366" r="2" fill="#ffaaaa"/>
+<line x1="240" y1="371" x2="240" y2="381" stroke="#c71a36" stroke-width="0.8" opacity="0.5"/>
+<text x="240" y="393" class="tech-name" fill="#c71a36" text-anchor="middle">📦 MAVEN</text>
+<text x="240" y="405" class="tech-pct"  fill="#c71a36" text-anchor="middle" opacity="0.65">▸ 75% PROFICIENCY</text>
+
+<!-- ── HIBERNATE ──────────────────────────────── (137, 296) -->
+<circle cx="137" cy="296" r="5" fill="none" stroke="#8aabb8" stroke-width="1.5" opacity="0.9">
+  <animate attributeName="r"              values="5;24"   dur="2.8s" begin="1.5s" repeatCount="indefinite"/>
+  <animate attributeName="stroke-opacity" values="0.9;0"  dur="2.8s" begin="1.5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="137" cy="296" r="5" fill="none" stroke="#8aabb8" stroke-width="0.8" opacity="0.5">
+  <animate attributeName="r"              values="5;18"   dur="2.8s" begin="1.9s" repeatCount="indefinite"/>
+  <animate attributeName="stroke-opacity" values="0.5;0"  dur="2.8s" begin="1.9s" repeatCount="indefinite"/>
+</circle>
+<circle cx="137" cy="296" r="4" fill="#8aabb8" filter="url(#glowHiber)">
+  <animate attributeName="r" values="4;5.5;4" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="137" cy="296" r="2" fill="#ddeeff"/>
+<line x1="133" y1="293" x2="121" y2="286" stroke="#8aabb8" stroke-width="0.8" opacity="0.5"/>
+<text x="118" y="283" class="tech-name" fill="#8aabb8" text-anchor="end">HIBERNATE 🐘</text>
+<text x="118" y="295" class="tech-pct"  fill="#8aabb8" text-anchor="end" opacity="0.65">72% PROFICIENCY ◂</text>
+
+<!-- ── JPA ────────────────────────────────────── (169, 163) -->
+<circle cx="169" cy="163" r="5" fill="none" stroke="#0098ff" stroke-width="1.5" opacity="0.9">
+  <animate attributeName="r"              values="5;24"   dur="2.8s" begin="2.0s" repeatCount="indefinite"/>
+  <animate attributeName="stroke-opacity" values="0.9;0"  dur="2.8s" begin="2.0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="169" cy="163" r="5" fill="none" stroke="#0098ff" stroke-width="0.8" opacity="0.5">
+  <animate attributeName="r"              values="5;18"   dur="2.8s" begin="2.4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke-opacity" values="0.5;0"  dur="2.8s" begin="2.4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="169" cy="163" r="4" fill="#0098ff" filter="url(#glowJpa)">
+  <animate attributeName="r" values="4;5.5;4" dur="2.6s" repeatCount="indefinite"/>
+</circle>
+<circle cx="169" cy="163" r="2" fill="#aaddff"/>
+<line x1="165" y1="160" x2="153" y2="153" stroke="#0098ff" stroke-width="0.8" opacity="0.5"/>
+<text x="150" y="150" class="tech-name" fill="#0098ff" text-anchor="end">JPA 🗄️</text>
+<text x="150" y="162" class="tech-pct"  fill="#0098ff" text-anchor="end" opacity="0.65">70% PROFICIENCY ◂</text>
+
+<!-- ─── VIGNETTE OVERLAY ──────────────────────────────────── -->
+<circle cx="240" cy="248" r="162" fill="url(#vignette)" opacity="0.3"/>
+
+<!-- ─── PROFICIENCY SCALE (bottom legend) ────────────────── -->
+<line x1="52"  y1="422" x2="428" y2="422" stroke="#0a2a15" stroke-width="0.8"/>
+<line x1="52"  y1="424" x2="428" y2="424" stroke="#071a0d" stroke-width="0.3"/>
+
+<!-- Scale bar -->
+<rect x="52" y="435" width="376" height="3" rx="1.5" fill="#071a0d"/>
+<rect x="52" y="435" width="94"  height="3" rx="1.5" fill="#0b2a16"/>
+<rect x="52" y="435" width="188" height="3" rx="1.5" fill="#0d3820"/>
+<rect x="52" y="435" width="282" height="3" rx="1.5" fill="#0f4828"/>
+<rect x="52" y="435" width="376" height="3" rx="1.5" fill="none" stroke="#0b2a16" stroke-width="0.5"/>
+
+<!-- Scale markers -->
+<line x1="146" y1="432" x2="146" y2="441" stroke="#0d3820" stroke-width="0.6"/>
+<line x1="240" y1="432" x2="240" y2="441" stroke="#0d3820" stroke-width="0.6"/>
+<line x1="334" y1="432" x2="334" y2="441" stroke="#0d3820" stroke-width="0.6"/>
+<line x1="428" y1="432" x2="428" y2="441" stroke="#0d3820" stroke-width="0.6"/>
+
+<text x="52"  y="450" class="footer-txt">0%</text>
+<text x="138" y="450" class="footer-txt">25%</text>
+<text x="229" y="450" class="footer-txt">50%</text>
+<text x="323" y="450" class="footer-txt">75%</text>
+<text x="415" y="450" class="footer-txt">100%</text>
+
+<text x="240" y="450" class="footer-txt" text-anchor="middle" fill="#0d3820">── PROFICIENCY SCALE ──</text>
+
+<!-- Status line -->
+<text x="52"  y="466" class="footer-txt">STATUS: ACTIVE</text>
+<text x="240" y="466" class="footer-txt" text-anchor="middle">TARGETS: 5 LOCKED</text>
+<text x="428" y="466" class="footer-txt" text-anchor="end">
+  SCANNING
+  <animate attributeName="fill" values="#0d3018;#00ff88;#0d3018" dur="1.5s" repeatCount="indefinite"/>
+</text>
+
+<!-- Blinking cursor -->
+<rect x="406" y="457" width="6" height="1" fill="#00ff88" class="blink"/>
+
+<!-- Active dot -->
+<circle cx="114" cy="463" r="3" fill="#00ff88" class="dot-pulse" filter="url(#glowGreen)"/>
+</svg>
