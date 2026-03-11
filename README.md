@@ -16,9 +16,9 @@ Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, aut
 
 ### **🌐 Conheça meu [Linkedin.](https://www.linkedin.com/in/victor-dutra-/)**
 
----
+-----
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java" width="100" height="200" alt="java logo" title="Java"/>
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=spring"  width="100" height="200" alt="php logo" title="PHP"/>
@@ -30,11 +30,7 @@ Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, aut
   <img src="https://skillicons.dev/icons?i=mysql"  width="100" height="200" alt="mysql logo" title="MySQL"/>
   <img width="20" />
 
-###
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dutraxz&locale=en&hide_title=true&layout=compact&card_width=520&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="240" alt="languages graph"  />
-</div>
-
+&ensp;
 
 <div align="center">
   <img src="./tech-stack.svg" alt="Tech Stack"/>
