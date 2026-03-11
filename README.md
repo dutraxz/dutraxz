@@ -1,10 +1,20 @@
- 👨🏻‍💻
+ 📟
 **`Desenvolvedor Back-End`**
 
-# Olá! Eu me chamo Victor 🌎
+# Olá! Eu me chamo Victor Dutra 👨🏻‍💻
 
 Tenho como foco desenvolvimento ***back-end*** e venho aprofundando meus estudos em ***Java, Maven, JPA, Hibernate***, arquitetura de aplicações entre outras tecnologias. Gosto de entender a lógica por trás dos sistemas e encontrar maneiras mais sofisticadas e eficientes de fazer as coisas funcionarem.
 Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, autoajuda e inovação.
+
+
+
+### **👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas pela [Universidade Paulista - UNIP.](https://www.unip.br/)**
+
+### **🎓Cursando Técnico em Desenvolvimento de Sistemas pelo [Senac Sorocaba.](https://www.sp.senac.br/senac-sorocaba)**
+
+### **📑 Veja meu Currículo [Aqui!](https://victoreddutra.my.canva.site/curriculo-victordutra)**
+
+### **🌐 Conheça meu [Linkedin.](https://www.linkedin.com/in/victor-dutra-/)**
 
 -----
 
@@ -26,5 +36,12 @@ Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, aut
   <img src="./tech-stack.svg" alt="Tech Stack"/>
 </div>
 
+<br/>
+<br/>
 
-###
+
+## 🛠️ Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,git,github,bash,windows,vercel,vite&theme=light&perline=9" />
+</div>
