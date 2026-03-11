@@ -1,21 +1,30 @@
  👨🏻‍💻
 **`Desenvolvedor Back-End`**
 
-Olá! Eu me chamo Victor 🌎
+# Olá! Eu me chamo Victor 🌎
 
 Tenho como foco desenvolvimento ***back-end*** e venho aprofundando meus estudos em ***Java, Maven, JPA, Hibernate***, arquitetura de aplicações entre outras tecnologias. Gosto de entender a lógica por trás dos sistemas e encontrar maneiras mais sofisticadas e eficientes de fazer as coisas funcionarem.
 Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, autoajuda e inovação.
 
 
-**🎓 Cursando Técnico em Desenvolvimento de Sistemas pelo [Senac Sorocaba.](https://www.sp.senac.br/senac-sorocaba)**
+### **👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas pela [Universidade Paulista - UNIP.](https://www.unip.br/)**
 
-**📄 Veja meu Currículo [Aqui!](https://www.canva.com/design/DAGzKAG9JCw/UD8EFVqz0YVpKXixanjz-w/view)**
+### **🎓Cursando Técnico em Desenvolvimento de Sistemas pelo [Senac Sorocaba.](https://www.sp.senac.br/senac-sorocaba)**
 
-**🌐 Conheça meu [Linkedin.](https://www.linkedin.com/in/victor-dutra-/)**
+### **📄 Veja meu Currículo [Aqui!](https://victoreddutra.my.canva.site/curriculo-victordutra)**
+
+### **🌐 Conheça meu [Linkedin.](https://www.linkedin.com/in/victor-dutra-/)**
 
 ---
 
-<div align="left">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,php,mysql,sqlite,postgres,js,typescript,react,vite,vercel,git,github,bash,vscode,idea,postman,vimflutter&perline=4&theme=light" width="250" />
+   <img width="50" />
+  </a>
+</p>
+
+<div vimflutter&perline=4>
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" title="Java"/>
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo" title="PHP"/>
@@ -34,7 +43,7 @@ Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, aut
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" title="VsCode"/>
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" title="Postman"/>
 </div>
 
 ###
