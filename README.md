@@ -6,16 +6,6 @@
 Tenho como foco desenvolvimento ***back-end*** e venho aprofundando meus estudos em ***Java, Maven, JPA, Hibernate***, arquitetura de aplicações entre outras tecnologias. Gosto de entender a lógica por trás dos sistemas e encontrar maneiras mais sofisticadas e eficientes de fazer as coisas funcionarem.
 Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, autoajuda e inovação.
 
-
-
-### **👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas pela [Universidade Paulista - UNIP.](https://www.unip.br/)**
-
-### **🎓Cursando Técnico em Desenvolvimento de Sistemas pelo [Senac Sorocaba.](https://www.sp.senac.br/senac-sorocaba)**
-
-### **📑 Veja meu Currículo [Aqui!](https://victoreddutra.my.canva.site/curriculo-victordutra)**
-
-### **🌐 Conheça meu [Linkedin.](https://www.linkedin.com/in/victor-dutra-/)**
-
 -----
 
 <div align="center">
