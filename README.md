@@ -21,11 +21,11 @@ Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, aut
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" width="100" height="200" alt="java logo" title="Java"/>
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=spring"  width="100" height="200" alt="php logo" title="PHP"/>
+  <img src="https://skillicons.dev/icons?i=spring"  width="100" height="200" alt="spring logo" title="Spring Boot"/>
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=maven"  width="100" height="200" alt="mysql logo" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=maven"  width="100" height="200" alt="maven logo" title="Apache Maven"/>
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=hibernate"  width="100" height="200" alt="sqlite logo" title="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=hibernate"  width="100" height="200" alt="hibernate logo" title="Hibernate"/>
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql"  width="100" height="200" alt="mysql logo" title="MySQL"/>
   <img width="20" />
