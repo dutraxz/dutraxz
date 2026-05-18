@@ -4,15 +4,17 @@
 # Olá! Eu me chamo Victor Dutra 👨🏻‍💻
 
 Tenho como foco desenvolvimento ***back-end*** e venho aprofundando meus estudos em ***Java, Maven, JPA, Hibernate***, arquitetura de aplicações entre outras tecnologias. Gosto de entender a lógica por trás dos sistemas e encontrar maneiras mais sofisticadas e eficientes de fazer as coisas funcionarem.
-Além da tecnologia, gosto de ler — especialmente livros sobre psicologia, autoajuda e inovação.
+Além da tecnologia, gosto de ler, especialmente livros sobre psicologia, autoajuda e inovação.
 
 
 
-### **👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas pela [Universidade Paulista - UNIP.](https://www.unip.br/)**
+### **👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas pela [Universidade Paulista - UNIP](https://www.unip.br/)**
+
+### **🎓 Formação Técnica em Desenvolvimento de Sistemas pelo [SENAC](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-desenvolvimento-de-sistemas)**
 
 ### **📑 Veja meu Currículo [Aqui!](https://victoreddutra.my.canva.site/curriculogithub)**
 
-### **🌐 Conheça meu [Linkedin.](https://www.linkedin.com/in/victor-dutra-/)**
+### **🌐 Conheça meu [Linkedin](https://www.linkedin.com/in/victor-dutra-/)**
 
 -----
 <div align="center">
