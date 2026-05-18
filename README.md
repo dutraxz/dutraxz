@@ -8,9 +8,9 @@ Além da tecnologia, gosto de ler, especialmente livros sobre psicologia, autoaj
 
 
 
-### **👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas pela [Universidade Paulista - UNIP](https://www.unip.br/)**
+### **👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas pela [Universidade Paulista - UNIP](https://www.unip.br/cursos/graduacao/tecnologicos/analise_desenvolvimento_sistemas.aspx)**
 
-### **🎓 Formação Técnica em Desenvolvimento de Sistemas pelo [SENAC](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-desenvolvimento-de-sistemas)**
+### **🎓 Formação Técnica em Desenvolvimento de Sistemas pelo [SENAC - SP](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-desenvolvimento-de-sistemas)**
 
 ### **📑 Veja meu Currículo [Aqui!](https://victoreddutra.my.canva.site/curriculogithub)**
 
