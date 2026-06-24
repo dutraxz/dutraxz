@@ -12,7 +12,7 @@ Além da tecnologia, gosto de ler, especialmente livros sobre psicologia, autoaj
 
 ### **🎓 Formação Técnica em Desenvolvimento de Sistemas pelo [SENAC - SP](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-desenvolvimento-de-sistemas)**
 
-### **📑 Veja meu Currículo [Aqui!](https://victoreddutra.my.canva.site/curriculogithub)**
+### **📑 Veja meu Currículo [Aqui!](https://1drv.ms/w/c/c996f3153228a3af/IQBKwXTcglOyQK_UzTmGOzmmAa2BnGxUA0icI_B-Zf6V-sI?e=eD7uhr)**
 
 ### **🌐 Conheça meu [Linkedin](https://www.linkedin.com/in/victor-dutra-/)**
 
