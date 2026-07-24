@@ -1,6 +1,10 @@
 <div align="center">
 
-# **Victor Dutra**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Victor%20Dutra&fontSize=60&fontColor=ffffff&fontAlignY=55">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Victor%20Dutra&fontSize=60&fontColor=000000&fontAlignY=55">
+  <img alt="Victor Dutra" width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Victor%20Dutra&fontSize=60&fontColor=ffffff&fontAlignY=55">
+</picture>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor%20Back--End-0D1117?style=for-the-badge&logo=java&logoColor=4FC3F7"/>
