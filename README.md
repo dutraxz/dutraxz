@@ -16,7 +16,7 @@
 </div>
 
 
-## 🧠 Sobre mim
+# 🧠 Sobre mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento ***back-end***. Gosto de entender a lógica por trás dos sistemas e buscar soluções mais sofisticadas e eficientes.
 
@@ -31,7 +31,7 @@ public class VictorDutra {
 }
 ```
 
-## 🎓 Formação
+# 🎓 Formação
 
 - 👨🏻‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — **[Universidade Paulista (UNIP)](https://www.unip.br/cursos/graduacao/tecnologicos/analise_desenvolvimento_sistemas.aspx) · cursando**
 - 🎓 Técnico em Desenvolvimento de Sistemas — **[SENAC-SP](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-desenvolvimento-de-sistemas) · concluído**
@@ -44,7 +44,7 @@ public class VictorDutra {
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🚀 Projetos em Destaque
 
 ### 🔹 [Sistema de Achados e Perdidos — Shopping Iguatemi Esplanada](https://github.com/dutraxz/system-achados-perdidos-portfolio)
 
