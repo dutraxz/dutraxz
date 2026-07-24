@@ -4,8 +4,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor%20Back--End-0D1117?style=for-the-badge&logo=java&logoColor=4FC3F7"/>
-  <img src="https://img.shields.io/badge/Java%20%26%20Spring-0D1117?style=for-the-badge&logo=spring&logoColor=32CD32"/>
-  <img src="https://img.shields.io/badge/Inovação-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java%20%26%20Spring-0D1117?style=for-the-badge&logo=spring&logoColor=008000"/>
+  <img src="https://img.shields.io/badge/Inovação-0D1117?style=for-the-badge"/>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-dutra-/"><img src="https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://1drv.ms/w/c/c996f3153228a3af/IQBKwXTcglOyQK_UzTmGOzmmAa2BnGxUA0icI_B-Zf6V-sI?e=eD7uhr"><img src="https://img.shields.io/badge/-Currículo-008000?style=for-the-badge&logo=microsoftword&logoColor=white"/></a>
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
@@ -25,11 +30,6 @@ public class VictorDutra {
     }
 }
 ```
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-dutra-/"><img src="https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://1drv.ms/w/c/c996f3153228a3af/IQBKwXTcglOyQK_UzTmGOzmmAa2BnGxUA0icI_B-Zf6V-sI?e=eD7uhr"><img src="https://img.shields.io/badge/-Currículo-0D1117?style=for-the-badge&logo=microsoftword&logoColor=white"/></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 ## 🎓 Formação
 
