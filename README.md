@@ -33,7 +33,7 @@ public class VictorDutra {
 # 🎓 Formação
 
 - 👨🏻‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — **[Universidade Paulista (UNIP)](https://www.unip.br/cursos/graduacao/tecnologicos/analise_desenvolvimento_sistemas.aspx) · cursando**
-- 🎓 Técnico em Desenvolvimento de Sistemas — **[SENAC-SP](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-desenvolvimento-de-sistemas) · concluído**
+- 🎓 Técnico em Desenvolvimento de Sistemas — **[SENAC SP](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-desenvolvimento-de-sistemas) · concluído**
 
 ---
 
@@ -61,4 +61,4 @@ Sistema web para micro-empresa real em Iperó/SP. CRUD completo, alertas de reab
 
 **Stack:** `Python` `Flask` `MySQL` `SQLAlchemy` `RESTful API` `HTML/CSS`
 
-> Líder de equipe — time de 5 pessoas | UNIP 2026
+> Líder de equipe — time de 4 pessoas | UNIP 2026
