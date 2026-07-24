@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Victor Dutra
@@ -35,10 +36,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvim
 
 ---
 
-<div align="center">
-<img src="./assets/banner-projetos.png" width="100%" alt="Banner de projetos"/>
-</div>
 
+<div align="center">
+<img src="bannerProjects.jpg" width="100%" alt="Banner de projetos"/>
+  
+</div>
 ## 🚀 Projetos em Destaque
 
 ### 🔹 [Sistema de Achados e Perdidos — Shopping Iguatemi Esplanada](https://github.com/dutraxz/system-achados-perdidos-portfolio)
