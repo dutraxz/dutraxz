@@ -3,8 +3,10 @@
 
 # Victor Dutra
 
-<img src="https://img.shields.io/badge/Desenvolvedor%20Back--End-000000?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java%20%26%20Spring-0000FF?style=flat-square"/>
+<p align="center">
+    <img src="https://img.shields.io/badge/Desenvolvedor%20Back--End-000000?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java%20%26%20Spring-0000FF?style=for-the-badge&logo=spring&logoColor=white"/>
+  </p>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4FC3F7&center=true&vCenter=true&width=560&lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Java,+Spring,+JPA,+Hibernate+e+Maven)](https://git.io/typing-svg)
@@ -15,10 +17,6 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento ***back-end***. Gosto de entender a lógica por trás dos sistemas e buscar soluções mais sofisticadas e eficientes.
 
-- 🎯 **Foco atual:** Java, Spring, JPA/Hibernate, Maven, arquitetura de aplicações
-- 💼 **Experiência prática:** Product Owner em projeto acadêmico com cliente externo real (Shopping Iguatemi) · automação de processos com Power Automate na Unimed
-- 🎓 **Formação:** [ADS — UNIP](https://www.unip.br/cursos/graduacao/tecnologicos/analise_desenvolvimento_sistemas.aspx) (cursando) · [Técnico em Desenvolvimento de Sistemas — SENAC-SP](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-desenvolvimento-de-sistemas)
-- 📚 **Fora do código:** psicologia, autoajuda e inovação
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-dutra-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -36,11 +34,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvim
 
 ---
 
-
-<div align="center">
-<img src="bannerProjects.jpg" width="100%" alt="Banner de projetos"/>
-  
-</div>
 ## 🚀 Projetos em Destaque
 
 ### 🔹 [Sistema de Achados e Perdidos — Shopping Iguatemi Esplanada](https://github.com/dutraxz/system-achados-perdidos-portfolio)
