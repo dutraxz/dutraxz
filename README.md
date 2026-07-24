@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-dutra-/"><img src="https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:victor.eddutra@gmail.com"><img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
