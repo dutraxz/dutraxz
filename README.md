@@ -52,7 +52,7 @@ Sistema desktop desenvolvido para um cliente real. Matching automático de itens
 
 **Stack:** `Java` `Maven` `JPA/Hibernate` `MySQL` `MVC` `DTO`
 
-> Líder de equipe e Product Owner — time de 5 pessoas | SENAC 2025–2026
+> Líder de equipe e Product Owner — time de 6 pessoas | SENAC 2025–2026
 
 ---
 
@@ -62,4 +62,4 @@ Sistema web para micro-empresa real em Iperó/SP. CRUD completo, alertas de reab
 
 **Stack:** `Python` `Flask` `MySQL` `SQLAlchemy` `RESTful API` `HTML/CSS`
 
-> Líder de equipe e Product Owner — time de 5 pessoas | UNIP 2026
+> Líder de equipe — time de 5 pessoas | UNIP 2026
