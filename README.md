@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Victor%20Dutra&fontSize=60&fontColor=800000&fontAlignY=55" width="100%" alt="Victor Dutra"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Victor%20Dutra&fontSize=60&fontColor=A9A9A9&fontAlignY=55" width="100%" alt="Victor Dutra"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor%20Back--End-0D1117?style=for-the-badge&logo=java&logoColor=4FC3F7"/>
