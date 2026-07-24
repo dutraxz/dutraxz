@@ -38,7 +38,7 @@ public class VictorDutra {
 ---
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,py,flask,maven,hibernate,mysql,mongodb,git,github,idea,vscode,postman,notion&theme=light&perline=8" width="600"/>
+<img src="https://skillicons.dev/icons?i=java,spring,py,flask,maven,hibernate,mysql,mongodb,git,github,idea,vscode,postman,notion&theme=light&perline=20" width="1500"/>
 </div>
 
 ---
