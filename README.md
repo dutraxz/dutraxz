@@ -17,7 +17,7 @@
 
 # 🧠 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento ***back-end***. Gosto de entender a lógica por trás dos sistemas e buscar soluções mais sofisticadas e eficientes.
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento ***back-end***. Gosto de criar coisas novas, fora do comum e entregar sempre o meu melhor.
 
 ```java
 public class VictorDutra {
