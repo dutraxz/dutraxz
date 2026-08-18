@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor%20Back--End-0D1117?style=for-the-badge&logo=java&logoColor=4FC3F7"/>
-  <img src="https://img.shields.io/badge/Java%20%26%20Spring-0D1117?style=for-the-badge&logo=spring&logoColor=008000"/>
+  <img src="https://img.shields.io/badge/Java%20%26%20Python-0D1117?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Inovação-0D1117?style=for-the-badge"/>
 </p>
 <p align="center">
