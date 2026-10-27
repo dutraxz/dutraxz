@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Victor%20Dutra&fontSize=60&fontColor=A9A9A9&fontAlignY=55" width="100%" alt="Victor Dutra"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor%20Back--End-0D1117?style=for-the-badge&logo=java&logoColor=4FC3F7"/>
-  <img src="https://img.shields.io/badge/Java%20%26%20Python-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Inovação-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Engenharia de Software-0D1117?style=for-the-badge&logo=java&logoColor=4FC3F7"/>
+  <img src="https://img.shields.io/badge/Java • Python-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IA • Automação • Inovação-0D1117?style=for-the-badge"/>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-dutra-/"><img src="https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,11 +17,11 @@
 
 # 🧠 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento ***back-end***. Gosto de criar coisas novas, fora do comum e entregar sempre o meu melhor.
+Gosto de inovar, questionar o status quo das coisas e entregar meu melhor.
 
 ```java
 public class VictorDutra {
-    String role = "Desenvolvedor Back-End";
+    String role = "Dev buscando estágio";
 
     public void getStatus() {
         System.out.println("🎯 Liderando projetos com clientes reais e criando soluções que agregam valor para sociedade.");
@@ -47,7 +47,7 @@ public class VictorDutra {
 
 ### 🔹 [Sistema de Achados e Perdidos — Shopping Iguatemi Esplanada](https://github.com/dutraxz/system-achados-perdidos-portfolio)
 
-Sistema desktop desenvolvido para um cliente real. Matching automático de itens, central de notificações, dashboard de relatórios e comprovantes de entrega.
+Sistema desktop desenvolvido durante uma parceira que fizemos do Senac com Shopping de Sorocaba. - Matching automático de itens, central de notificações, dashboard de relatórios e comprovantes de entrega.
 
 **Stack:** `Java` `Maven` `JPA/Hibernate` `MySQL` `MVC` `DTO`
 
@@ -57,7 +57,7 @@ Sistema desktop desenvolvido para um cliente real. Matching automático de itens
 
 ### 🔹 [Sistema de Estoque — Resanf Salgados](https://github.com/dutraxz/system-estoque-resanf-salgados-portfolio)
 
-Sistema web para micro-empresa real em Iperó/SP. CRUD completo, alertas de reabastecimento e dashboard financeiro com API RESTful.
+Sistema web para uma micro-empresa real em Iperó/SP. - CRUD completo, alertas de reabastecimento e dashboard financeiro com API RESTful.
 
 **Stack:** `Python` `Flask` `MySQL` `SQLAlchemy` `RESTful API` `HTML/CSS`
 
